@@ -1,0 +1,6 @@
+skyfield
+requests
+numpy
+scipy
+python-dotenv
+sgp4
